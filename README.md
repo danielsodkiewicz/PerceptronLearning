@@ -1,5 +1,5 @@
-Perceptron Learning
-==================
+Perceptron Learning (C++)
+==========================
 
 This simple program trains a neural network with two inputs of binary values, therefore the four patterns for the Threshold Logic Unit (TLI) are: 00, 01, 10, 11. This n-dimensional space representing all the inputs patterns is usually referred to as the pattern space. You can recall from your computer engineering classes that this TLU is behaving as a 2-input gate. 
 
