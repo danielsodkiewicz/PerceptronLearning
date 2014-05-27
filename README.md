@@ -14,7 +14,7 @@ y=x1*w1+x2*w2+x3*w3
 
 The x3 is set to -1, x1 and x2 are used as input of the mentioned above input pattern. The output value y is 1 when the vector multiplication x*w is => 0 and 0 otherwise.
 
-![Neuron](https://raw.githubusercontent.com/danielsodkiewicz/PerceptronLearning//master/neuron.jpg)
+![Neuron](https://raw.githubusercontent.com/danielsodkiewicz/PerceptronLearning/master/neuron.jpg)
 
 The program goes through epochs, in each one all input patterns are checked and y value calculated. It is compared with a value ‘t’ which I use to call the ‘true’ value which we want our system to learn. It goeas through as many epochs as needed to adjust weights in a way to learn a pattern.
 
